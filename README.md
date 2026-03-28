@@ -36,6 +36,6 @@ The main research questions include:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/xiaYC35/flight_price.git
+cd flight_price
 pip install -r requirements.txt
